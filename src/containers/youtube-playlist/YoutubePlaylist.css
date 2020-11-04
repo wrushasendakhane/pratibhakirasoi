@@ -1,0 +1,11 @@
+.slick-arrow {
+  background-color: black;
+  color: white;
+  height: 40px;
+  width: 40px;
+  border-radius: 100px;
+}
+.slick-arrow:hover,
+.slick-arrow:active {
+  background-color: black !important;
+}
